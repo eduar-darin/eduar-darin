@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduar Arias</h1>
 <h3 align="center">I am a Computer Engineer, with a solid background in software design and development, focused on backend. I am passionate about technological innovation and I stand out for my ability to optimize processes and propose efficient solutions to complex challenges.</h3>
 
-- 🔭 I’m currently working on [RadarCam](https://github.com/eduar-darin/RadarCam-Backend.git)
+- 🔭 I’m currently working on [Marketplace](https://github.com/eduar-darin/marketplace_back.git)
 
 - 🌱 I’m currently learning **Nestjs and Golang**
 
