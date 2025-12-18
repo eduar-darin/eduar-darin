@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I am a Computer Engineer, with a solid background in software design and development, focused on backend. I am passionate about technological innovation and I stand out for my ability to optimize processes and propose efficient solutions to complex challenges.<br><br>- 🔭 I’m working as AWS<br>- 📚 I'm currently learning AWS, NestJS<br>- ⚡ In my free time I play videogames</p>
+<p align="left">I am a Computer Engineer, with a solid background in software design and development, focused on backend. I am passionate about technological innovation and I stand out for my ability to optimize processes and propose efficient solutions to complex challenges.<br><br>- 🔭 I’m working as billing_API<br>- 📚 I'm currently learning AWS, NestJS<br>- ⚡ In my free time I play videogames</p>
 
 ###
 
