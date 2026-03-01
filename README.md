@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">Analyst with training in Computer Engineering, with solid foundations in data analysis and automation<br>of processes. I am characterized by a quick learning capacity, analytical thinking and focus on<br>optimization and problem solving through the efficient use of information. I count on<br>experience participating in different stages of process analysis and improvement, from the understanding of<br>requirements and data to the implementation and validation of automated solutions.<br><br>- 🔭 I’m working as Data Analyst<br>- 📚 I'm currently learning Data Science, Advance Analyst<br>- ⚡ In my free time I play videogames</p>
+<p align="center">Backend Developer with a background in Computer Engineering, focused on building scalable, maintainable, and efficient server-side solutions. Strong foundations in backend architecture, API design, database modeling, and process automation.<br><br>I am characterized by fast learning, analytical thinking, and a results-oriented mindset, with emphasis on optimization and problem solving through clean code and well-structured systems.<br><br>My experience includes participating in the full development lifecycle: requirement analysis, system design, data modeling, implementation of RESTful services, integration between systems, and validation of automated workflows. I actively apply best practices such as clean architecture principles, modular design, and process automation to improve efficiency and reliability in backend environments.<br><br><br>- 🔭 I’m working as BackEnd<br>- 📚 I'm currently learning AWS, N8N<br>- ⚡ In my free time I play videogames</p>
 
 ###
 
@@ -35,6 +35,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
